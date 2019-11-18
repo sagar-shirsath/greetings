@@ -1,0 +1,5 @@
+django==1.8.1
+mysql-python
+django_mysql==2.1.1
+django-oauth-toolkit==0.12.0
+djangorestframework==3.7
